@@ -1,0 +1,7 @@
+{
+  "name": "blar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

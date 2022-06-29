@@ -1,0 +1,6 @@
+{
+	"appId": "com.blar",
+	"appName": "blar",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
